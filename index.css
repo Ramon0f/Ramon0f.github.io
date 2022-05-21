@@ -54,7 +54,9 @@ h2 {
 	font-size:170%;
 }
 .banner {
-	width:100%;
+	width:60%;
+	margin-left:20%;
+	margn-right:20%;
 }
 .textdisc {
 	width:60%;
